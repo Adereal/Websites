@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --color-aglianico: #722F37;
+  --color-aglianico-dark: #5a252b;
+  --color-parchment: #FDFBF7;
+  --color-woodfire: #D4AF37;
+  --color-olive: #556B2F;
+  
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Playfair Display", ui-serif, Georgia, serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
